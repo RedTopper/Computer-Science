@@ -7,7 +7,7 @@ These are my answers for the APCS class. They are here to provide usefulness to 
 ##### What you CAN NOT do:
 
 1. Turn these projects in as your own work.
-2. Copy and paste segments of these projects into your own work.
+2. Copy and paste segments of these projects into your own work (Both with credit or without credit).
 3. Turn these projects in (with credit to me) for your own grade.
 
 ##### What you CAN (and probably should) do:
